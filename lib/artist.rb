@@ -1,5 +1,5 @@
 class Artist 
-  attr_acessor :name 
+  attr_accessor :name 
   @name = name
 
 
